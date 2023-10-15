@@ -1,0 +1,35 @@
+.h-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.h-wrapper{
+   
+    /* background: black; */
+    color: white;
+}
+.h-menu{
+    color: rgb(204, 47, 47);
+}
+.h-container{
+    justify-content: space-between;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    color: white;
+}
+.h-menu{
+    gap: 2rem;
+}
+.h-menu>*:hover{
+    cursor: pointer;
+}
+
+.residence{
+    color:white;
+}
+/* .button1{
+    
+    background-color: blue;
+    font-size: 20px;
+    color: white;
+} */

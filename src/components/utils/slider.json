@@ -1,0 +1,33 @@
+[
+{
+    "name":"India",
+    "fees":"10,232",
+    "details":"In INDIA we are working",
+    "image":"./i1.png"
+},
+{
+    "name":"USA",
+    "fees":"20,645",
+    "details":"In USA we are working",
+    "image":"./i2.png"
+},
+{
+    "name":"CANADA",
+    "fees":"12,030",
+    "details":"In CANADA we are working",
+    "image":"./i3.jpg"
+},
+{
+    "name":"ENGLAND",
+    "fees":"13,151",
+    "details":"In ENGLAND we are working",
+    "image":"./i4.png"
+},
+{
+    "name":"RUSSIA",
+    "fees":"16,818",
+    "details":"In RUSSIA we are working",
+    "image":"./i5.jpg"
+}
+
+]
